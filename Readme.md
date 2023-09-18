@@ -8,3 +8,5 @@
 ######  node_modules - Server dependencies(Express,Mongoose, etc)
 ######  package.json - Server package.json
 ######  .env - Enviroment variables - MongoDB URI, JWT Secret, etc
+######  .git
+######  .gitignore
